@@ -37,9 +37,14 @@ We provide the data through [Baidu Driver][bd-share], and we will update the dat
 
 Since I am a Big Anime Fan and [Pixiv][pixiv] is a great community where people share their best works, I think it's a good idea to do something like Data Mining or Machine Learning stuff with top illustrations provided by [Pixiv][pixiv].
 
+### Applications
+
+- [Pixily][pixivly]
+
 **Welcome to do something interesting :)**
 
 
 [pixiv]: http://www.pixiv.net/
 [gp]: https://github.com/Pixivly/get_pixivly
 [bd-share]: http://pan.baidu.com/s/1hsyIGHA
+[pixivly]: http://pixivly.luoyetx.com/
