@@ -47,4 +47,4 @@ Since I am a Big Anime Fan and [Pixiv][pixiv] is a great community where people 
 [pixiv]: http://www.pixiv.net/
 [gp]: https://github.com/Pixivly/get_pixivly
 [bd-share]: http://pan.baidu.com/s/1hsyIGHA
-[pixivly]: http://pixivly.luoyetx.com/
+[pixivly]: https://pixivly.herokuapp.com/
