@@ -25,7 +25,7 @@ We organize the data by year. Every year is a folder and has `image` and `json`.
 |    |    |-- ...
 ```
 
-`20150101_01.json` stands for top 1~50 of date `20150101` and `20150101_02.json` stands for top 51~100.
+`20150101_01.json` stands for top 1-50 of date `20150101` and `20150101_02.json` stands for top 51-100.
 
 There's something you should notice, since some links/images are invalid, so there might have no picture under `image` with some ids. What's more, we only provide the small version of the illustrations with average size is 240x480.
 
